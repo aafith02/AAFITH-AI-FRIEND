@@ -59,5 +59,3 @@ LIVEKIT_API_KEY=your_livekit_key
 LIVEKIT_API_SECRET=your_livekit_secret
 
 python ai.py
-## 🚀 Installation
-1. Clone the repository
